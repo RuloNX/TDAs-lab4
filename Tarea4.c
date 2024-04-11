@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//weta
+
 // Función para limpiar la pantalla
 void limpiarPantalla() { system("clear"); }
 
